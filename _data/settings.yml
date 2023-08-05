@@ -13,7 +13,6 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {name: 'Blog',       link: 'https://technesiyam.blogspot.com'}
 - {icon: 'twitter', link:    'https://twitter.com/technesiyam'}
 - {icon: 'facebook', link:   'https://www.facebook.com/technesiyam'}
 - {icon: 'instagram', link:  'https://instagram.com/technesiyam'}
