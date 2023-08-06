@@ -3,7 +3,7 @@ layout: post
 title: "Choltorongo"
 author: "MD Abu Siyam"
 categories: achievement
-tags: [achievement,film]
+tags: [achievement,film,club,university]
 image: choltorongo.jpg
 ---
 
