@@ -18,6 +18,3 @@ author:              "MD Abu Siyam"
 feed:
 path: rss-feed.xml
 
-url: "https://siyam.pro"
-plugins:
-  - jekyll-sitemap
