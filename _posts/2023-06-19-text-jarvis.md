@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jarvis 4.0"
+author: "MD Abu Siyam"
+categories: achievement
+tags: [achievement,club]
+image: jarvis.jpg
+---
+
+**Jarvis 4.0** was arranged by *AIUB Computer Club* in 18 June, 2023. I participated in the ICT Olympiad and became the runner up.
